@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "877775e7d627664b",
+    "type": "split",
+    "children": [
+      {
+        "id": "83d327a06e1f9d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee34cf1da275c511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "بدون عنوان.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "بدون عنوان"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "255b4a2dd3760e23",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "36e3f74c236d2f7b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "مستكشف الملفات"
+        }
+      },
+      {
+        "id": "15da5b2a149aac87",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "البحث"
+        }
+      },
+      {
+        "id": "ce87e91571728c22",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "وسوم"
+        }
+      },
+      {
+        "id": "a4cd4b6818430e73",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "جميع الخصائص"
+        }
+      },
+      {
+        "id": "7613a6b4e392b489",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "الإشارات المرجعية"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cde19d5ef3a98fe1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e9b893db340820c9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "بدون عنوان.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "الروابط الخلفية"
+        }
+      },
+      {
+        "id": "e0bd926ebbf0904d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "بدون عنوان.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "روابط صادرة"
+        }
+      },
+      {
+        "id": "9f66ce20f3e635cf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "بدون عنوان.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "المخطط التفصيلي"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:إفتح الانتقال السريع": false,
+      "graph:إفتح العرض البياني": false,
+      "canvas:إنشاء لوحة بصرية جديدة": false,
+      "daily-notes:إفتح ملاحظة اليوم": false,
+      "templates:أدرج قالب": false,
+      "command-palette:إفتح لوحة الأوامر": false,
+      "bases:إنشاء قاعدة جديدة": false
+    }
+  },
+  "active": "ee34cf1da275c511",
+  "lastOpenFiles": [
+    "بدون عنوان.md"
+  ]
+}
